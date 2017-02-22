@@ -18,11 +18,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: LiuFeature2010
+id: LiuFeature2010
 abstract: 
 origpdf: 
 pdf: "./LiuFeature2010/LiuFeature2010.pdf"
-editors:
+editor:
 - given: Huan
   family: Liu
 - given: Hiroshi

@@ -12,15 +12,18 @@ abstract: The paper analyzes peculiarities of preprocessing of learning data rep
   on several case studies.
 pdf: "./gorodetsky10a/gorodetsky10a.pdf"
 layout: inproceedings
-key: gorodetsky10a
+id: gorodetsky10a
 month: 0
 firstpage: 55
 lastpage: 65
+page: 55-65
 origpdf: http://jmlr.org/proceedings/papers/v10/gorodetsky10a/gorodetsky10a.pdf
 sections: 
-authors:
+author:
 - given: Vladimir
   family: Gorodetsky
 - given: Vladimir
   family: Samoylov
+date: '2010-05-26 00:00:55'
+publisher: PMLR
 ---

@@ -17,15 +17,18 @@ abstract: "L1 (also referred to as the 1-norm or Lasso) penalty based formulatio
   on two L1 penalized classification algorithms."
 pdf: "./jaiantilal10a/jaiantilal10a.pdf"
 layout: inproceedings
-key: jaiantilal10a
+id: jaiantilal10a
 month: 0
 firstpage: 86
 lastpage: 96
+page: 86-96
 origpdf: http://jmlr.org/proceedings/papers/v10/jaiantilal10a/jaiantilal10a.pdf
 sections: 
-authors:
+author:
 - given: Abhishek
   family: Jaiantilal
 - given: Gregory
   family: Grudic
+date: '2010-05-26 00:01:26'
+publisher: PMLR
 ---

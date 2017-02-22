@@ -1,0 +1,28 @@
+---
+title: Feature Selection for Text Classification Based on Gini Coefficient of Inequality
+abstract: A number of feature selection mechanisms have been explored in text categorization,
+  among which mutual information, information gain and chi-square are considered most
+  effective. In this paper, we study another method known as {\it within class popularity}
+  to deal with feature selection based on the concept {\it Gini coefficient of inequality}
+  (a commonly used measure of inequality of \textit{income}). The proposed measure
+  explores the relative distribution of a feature among different classes. From extensive
+  experiments with four text classifiers over three datasets of different levels of
+  heterogeneity, we observe that the proposed measure outperforms the mutual information,
+  information gain and chi-square static with an average improvement of approximately
+  28.5\%, 19\% and 9.2\% respectively.
+pdf: "./sanasam10a/sanasam10a.pdf"
+layout: inproceedings
+key: sanasam10a
+month: 0
+firstpage: 76
+lastpage: 85
+origpdf: http://jmlr.org/proceedings/papers/v10/sanasam10a/sanasam10a.pdf
+sections: 
+authors:
+- given: Ranbir
+  family: Sanasam
+- given: Hema
+  family: Murthy
+- given: Timothy
+  family: Gonsalves
+---

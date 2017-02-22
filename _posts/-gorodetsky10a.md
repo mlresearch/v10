@@ -1,0 +1,26 @@
+---
+title: 'Feature Extraction for Machine Learning: Logic-Probabilistic Approach'
+abstract: The paper analyzes peculiarities of preprocessing of learning data represented
+  in object data bases constituted by multiple relational tables with ontology on
+  top of it. Exactly such learning data structures are peculiar to many novel challenging
+  applications. The paper proposes a new technology supported by a number of novel
+  algorithms intended for ontology-centered transformation of heterogeneous possibly
+  poor structured learning data into homogeneous informative binary feature space
+  based on (1) aggregation of the ontology notion instances and their attribute domains
+  and subsequent probabilistic cause-consequence analysis aimed at extraction more
+  informative features. The proposed technology is fully implemented and validated
+  on several case studies.
+pdf: "./gorodetsky10a/gorodetsky10a.pdf"
+layout: inproceedings
+key: gorodetsky10a
+month: 0
+firstpage: 55
+lastpage: 65
+origpdf: http://jmlr.org/proceedings/papers/v10/gorodetsky10a/gorodetsky10a.pdf
+sections: 
+authors:
+- given: Vladimir
+  family: Gorodetsky
+- given: Vladimir
+  family: Samoylov
+---

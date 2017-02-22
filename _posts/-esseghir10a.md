@@ -1,0 +1,23 @@
+---
+title: Effective Wrapper-Filter hybridization through GRASP Schemata
+abstract: Of all of the challenges which face the selection of relevant features for
+  predictive data mining or pattern recognition modeling, the adaptation of computational
+  intelligence techniques to feature selection problem requirements is one of the
+  primary impediments. A new improved metaheuristic based on \textit{Greedy Randomized
+  Adaptive Search Procedure} (GRASP) is proposed for the problem of Feature Selection.
+  Our devised optimization approach provides an effective scheme for wrapper-filter
+  hybridization through the adaptation of GRASP components. The paper investigates,
+  the GRASP component design as well as its adaptation to the feature selection problem.
+  Carried out experiments showed Empirical effectiveness of the devised approach.
+pdf: "./esseghir10a/esseghir10a.pdf"
+layout: inproceedings
+key: esseghir10a
+month: 0
+firstpage: 45
+lastpage: 54
+origpdf: http://jmlr.org/proceedings/papers/v10/esseghir10a/esseghir10a.pdf
+sections: 
+authors:
+- given: Mohamed Amir
+  family: Esseghir
+---

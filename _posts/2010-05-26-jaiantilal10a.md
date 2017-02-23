@@ -15,7 +15,7 @@ abstract: "L1 (also referred to as the 1-norm or Lasso) penalty based formulatio
   experiments on subsets of the training data as a fast pre-processing step. We show
   experimental and theoretical results supporting the e\x0Ecacy of the proposed method
   on two L1 penalized classification algorithms."
-pdf: http://jmlr.org/proceedings/papers/v10/jaiantilal10a/jaiantilal10a.pdf
+pdf: http://proceedings.mlr.press/v10/jaiantilal10a/jaiantilal10a.pdf
 layout: inproceedings
 id: jaiantilal10a
 month: 0
@@ -28,7 +28,6 @@ author:
   family: Jaiantilal
 - given: Gregory
   family: Grudic
-reponame: v10
 date: 2010-05-26
 address: Hyderabad, India
 publisher: PMLR

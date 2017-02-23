@@ -3,7 +3,6 @@
 ---
 booktitle: Proceedings of the Fourth International Workshop on Feature Selection in
   Data Mining
-address: Hyderabad, India
 month: 0
 publisher: JMLR Workshop and Conference Proceedings
 volume: 10
@@ -19,9 +18,9 @@ sections:
   title: Accepted Papers
 layout: proceedings
 id: LiuFeature2010
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./LiuFeature2010/LiuFeature2010.pdf"
+pdf: http://proceedings.pmlr.press/LiuFeature2010/LiuFeature2010.pdf
 editor:
 - given: Huan
   family: Liu
@@ -33,8 +32,6 @@ editor:
   family: Zhao
 title: Proceedings of the Fourth International Workshop on Feature Selection in Data
   Mining
-conference: Proceedings of the Fourth International Workshop on Feature Selection
-  in Data Mining
 email: ''
 description: Proceedings of the Fourth International Workshop on Feature Selection
   in Data Mining, Hyderabad, India
@@ -44,8 +41,15 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v10
+conference:
+  name: 
+  url: 
+  location: Hyderabad, India
+  dates:
+  - 2010-06-21
 analytics:
   google:
     tracking_id: UA-92432422-1

@@ -10,7 +10,7 @@ abstract: The paper analyzes peculiarities of preprocessing of learning data rep
   and subsequent probabilistic cause-consequence analysis aimed at extraction more
   informative features. The proposed technology is fully implemented and validated
   on several case studies.
-pdf: "./gorodetsky10a/gorodetsky10a.pdf"
+pdf: http://proceedings.pmlr.press/gorodetsky10a/gorodetsky10a.pdf
 layout: inproceedings
 id: gorodetsky10a
 month: 0
@@ -24,6 +24,16 @@ author:
   family: Gorodetsky
 - given: Vladimir
   family: Samoylov
-date: '2010-05-26 00:00:55'
+date: 2010-05-26
 publisher: PMLR
+container-title: Proceedings of the Fourth International Workshop on Feature Selection
+  in Data Mining
+volume: '10'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2010
+  - 5
+  - 26
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

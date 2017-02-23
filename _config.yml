@@ -19,8 +19,6 @@ sections:
 layout: proceedings
 id: LiuFeature2010
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/LiuFeature2010/LiuFeature2010.pdf
 editor:
 - given: Huan
   family: Liu

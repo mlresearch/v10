@@ -10,20 +10,20 @@ abstract: The paper analyzes peculiarities of preprocessing of learning data rep
   and subsequent probabilistic cause-consequence analysis aimed at extraction more
   informative features. The proposed technology is fully implemented and validated
   on several case studies.
-pdf: http://proceedings.pmlr.press/gorodetsky10a/gorodetsky10a.pdf
+pdf: http://jmlr.org/proceedings/papers/v10/gorodetsky10a/gorodetsky10a.pdf
 layout: inproceedings
 id: gorodetsky10a
 month: 0
 firstpage: 55
 lastpage: 65
 page: 55-65
-origpdf: http://jmlr.org/proceedings/papers/v10/gorodetsky10a/gorodetsky10a.pdf
 sections: 
 author:
 - given: Vladimir
   family: Gorodetsky
 - given: Vladimir
   family: Samoylov
+reponame: v10
 date: 2010-05-26
 address: Hyderabad, India
 publisher: PMLR

@@ -3,14 +3,14 @@
 ---
 booktitle: Proceedings of the Fourth International Workshop on Feature Selection in
   Data Mining
+shortname: FSDM
 month: 0
-publisher: JMLR Workshop and Conference Proceedings
+publisher: PMLR
 volume: 10
 year: '2010'
 start: 2010-06-21
 end: 2010-06-21
 published: 2010-05-26
-shortname: Feature Selection in Data Mining
 sections:
 - name: preface
   title: Preface
@@ -45,8 +45,7 @@ github:
   edit: true
   repository: v10
 conference:
-  name: Proceedings of the Fourth International Workshop on Feature Selection in Data
-    Mining
+  name: Feature Selection in Data Mining
   url: 
   location: Hyderabad, India
   dates:

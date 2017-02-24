@@ -15,8 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: gorodetsky10a
 month: 0
-firstpage: '55'
-lastpage: '65'
+firstpage: 55
+lastpage: 65
 page: 55-65
 sections: 
 author:

@@ -1,5 +1,3 @@
-# Site settings
-# Auto generated from v10.bib
 ---
 booktitle: Proceedings of the Fourth International Workshop on Feature Selection in
   Data Mining
@@ -17,6 +15,7 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
+series: Proceedings of Machine Learning Research
 id: LiuFeature2010
 abstract: ''
 editor:
@@ -51,3 +50,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v10.bib

@@ -17,6 +17,7 @@ abstract: "L1 (also referred to as the 1-norm or Lasso) penalty based formulatio
   on two L1 penalized classification algorithms."
 pdf: http://proceedings.mlr.press/v10/jaiantilal10a/jaiantilal10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: jaiantilal10a
 month: 0
 firstpage: 86

@@ -12,6 +12,7 @@ abstract: The paper analyzes peculiarities of preprocessing of learning data rep
   on several case studies.
 pdf: http://proceedings.mlr.press/v10/gorodetsky10a/gorodetsky10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: gorodetsky10a
 month: 0
 firstpage: 55

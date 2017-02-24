@@ -20,8 +20,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: jaiantilal10a
 month: 0
-firstpage: 86
-lastpage: 96
+firstpage: '86'
+lastpage: '96'
 page: 86-96
 sections: 
 author:

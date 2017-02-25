@@ -43,6 +43,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 21 Jun
 url: http://proceedings.mlr.press
 baseurl: "/v10"
 twitter_username: mlresearch
@@ -52,6 +53,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v10
+bibtex_copy: true
 email: ''
 conference:
   name: Feature Selection in Data Mining

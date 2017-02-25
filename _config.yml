@@ -27,11 +27,21 @@ editor:
   family: Setiono
 - given: Zheng
   family: Zhao
-title: Proceedings of the Fourth International Workshop on Feature Selection in Data
-  Mining
-email: ''
-description: Proceedings of the Fourth International Workshop on Feature Selection
-  in Data Mining, Hyderabad, India
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Fourth International Workshop on Feature Selection in Data Mining
+    Held in Hyderabad, India on 21 June 2010
+
+  Published as Volume 10 by the Proceedings of Machine Learning Research on 26 May 2010.
+
+  Volume Edited by:
+    Huan Liu
+    Hiroshi Motoda
+    Rudy Setiono
+    Zheng Zhao
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v10"
 twitter_username: mlresearch
@@ -41,6 +51,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v10
+email: ''
 conference:
   name: Feature Selection in Data Mining
   url: 

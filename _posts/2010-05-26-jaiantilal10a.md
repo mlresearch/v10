@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: jaiantilal10a
 month: 0
+tex_title: Increasing Feature Selection Accuracy for L1 Regularized Linear Models
 firstpage: 86
 lastpage: 96
 page: 86-96

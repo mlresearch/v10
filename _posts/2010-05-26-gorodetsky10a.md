@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: gorodetsky10a
 month: 0
+tex_title: 'Feature Extraction for Machine Learning: Logic-Probabilistic Approach'
 firstpage: 55
 lastpage: 65
 page: 55-65

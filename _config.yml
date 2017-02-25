@@ -18,6 +18,8 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: LiuFeature2010
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Huan
   family: Liu
@@ -27,7 +29,6 @@ editor:
   family: Setiono
 - given: Zheng
   family: Zhao
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Fourth International Workshop on Feature Selection in Data Mining
     Held in Hyderabad, India on 21 June 2010

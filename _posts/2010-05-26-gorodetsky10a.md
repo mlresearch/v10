@@ -19,7 +19,8 @@ tex_title: 'Feature Extraction for Machine Learning: Logic-Probabilistic Approac
 firstpage: 55
 lastpage: 65
 page: 55-65
-sections: 
+order: 55
+cycles: false
 author:
 - given: Vladimir
   family: Gorodetsky

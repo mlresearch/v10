@@ -24,7 +24,8 @@ tex_title: Increasing Feature Selection Accuracy for L1 Regularized Linear Model
 firstpage: 86
 lastpage: 96
 page: 86-96
-sections: 
+order: 86
+cycles: false
 author:
 - given: Abhishek
   family: Jaiantilal

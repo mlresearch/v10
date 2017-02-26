@@ -20,6 +20,7 @@ id: LiuFeature2010
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: false
 editor:
 - given: Huan
   family: Liu
@@ -53,9 +54,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v10
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: Feature Selection in Data Mining

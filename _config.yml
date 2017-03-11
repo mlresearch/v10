@@ -17,9 +17,6 @@ sections:
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: LiuFeature2010
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Huan
@@ -30,6 +27,7 @@ editor:
   family: Setiono
 - given: Zheng
   family: Zhao
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Fourth International Workshop on Feature Selection in Data Mining
     Held in Hyderabad, India on 21 June 2010
@@ -47,7 +45,7 @@ description: |
 date_str: 21 Jun
 url: http://proceedings.mlr.press
 baseurl: "/v10"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -59,6 +57,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -72,3 +71,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v10.bib
+---

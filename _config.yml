@@ -1,6 +1,7 @@
 ---
 booktitle: Proceedings of the Fourth International Workshop on Feature Selection in
   Data Mining
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 shortname: FSDM
 month: 0
 publisher: PMLR
@@ -51,6 +52,10 @@ baseurl: "/v10"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
@@ -79,6 +84,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
